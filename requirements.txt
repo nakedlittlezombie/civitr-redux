@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+Pillow
+Flask-WTF
+Flask-Paginate
+requests
+Flask-SQLAlchemy
